@@ -1,4 +1,4 @@
-# Thinkpad L15 Hackintosh
+# Thinkpad L15 G1 Hackintosh Intel I5 10210U
 Hackintosh for L15 G1 Thinkpad Comet Lake
 
 ![image](https://github.com/kefrulz/Thinkpad-L15-Hackintosh/blob/03a9c5608330700fa99e760cb3617074f0b84706/Screenshot%202023-12-02%20at%2014.49.38.png)
