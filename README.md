@@ -30,7 +30,6 @@ Everything works great
 
 ## Installation instructions: ##
 * Download EFI from this repo
-* Download https://github.com/corpnewt/GenSMBIOS to generate the MLB/ROM/Serial Number/UUID
 * Download OCAT https://github.com/ic005k/OCAuxiliaryTools
 * Open Config in OCAT and go to PI(Platform Info) and generate a new System Product Name (This will generate all Paltform Info details for your new Hackintosh) and then Save (Don't worry about any errors in Validation, they show up since when you download OCAT it does not have latest OpenCore version attached. OPTIONAL: To solve this go to OCAT>Upgrade OpenCore and Kexts and press on Get latest version of Opencore) Then Save.
 * Download Open Core Legacy Patcher on another working MAC
